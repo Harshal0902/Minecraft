@@ -4,7 +4,7 @@ A simple Minecraft game build using React JS
 ## Demo Link
 https://minecraft-game-368ef.web.app/
 
-## Screenshots
+## Screenshot
 ![Minecraft](https://user-images.githubusercontent.com/64153988/100198478-e9ed4780-2f21-11eb-8b96-6570e6a38a21.png)
 
 ## Prerequisites
