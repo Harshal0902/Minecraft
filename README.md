@@ -6,6 +6,7 @@ https://minecraft-game-368ef.web.app/
 
 ## Screenshot
 ![Minecraft](https://user-images.githubusercontent.com/64153988/100198478-e9ed4780-2f21-11eb-8b96-6570e6a38a21.png)
+![Minecraft1](https://user-images.githubusercontent.com/64153988/103417766-08de9980-4bb2-11eb-9f86-4bea963fc696.png)
 
 ## Prerequisites
 
