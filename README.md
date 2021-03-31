@@ -23,3 +23,6 @@ From the project folder, run these commands in console (terminal) to install dep
 2. npm run dev
 3. npm start
 ```
+
+<img src="https://komarev.com/ghpvc/?username=Minecraft&color=blue&label=+Hackers+inspired"/>
+
